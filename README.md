@@ -1,3 +1,7 @@
+In this function, it takes the year you want to check from input.
+Then with if and else statements, it will calculate weather your year you inputed is leap year or not a leap year. 
+
+
 ## Leap Year
 
 # UPDATE
